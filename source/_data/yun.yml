@@ -1,5 +1,7 @@
 avatar:
-  url: /images/avatar.jpg
+  url: http://bjupload.eduyun.cn/cms_resource/download.aspx?contentId=96a8896db858431c90c4f789321e38a5
+  rounded: true
+  opacity: 1
 
 reward_settings:
   enable: true
