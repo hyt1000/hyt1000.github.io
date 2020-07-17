@@ -1015,7 +1015,7 @@ body::before {
   transition-property: all;
   transition-duration: 0.2s;
   transition-delay: 0s;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,255,255,0.7);
   box-shadow: 0 1px 8px rgba(255,255,255,0.1);
 }
 .post-card:hover {
@@ -1555,7 +1555,7 @@ body::before {
   left: 0;
   width: 20rem;
   background-color: #fff;
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpghttps://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=778750&filename=c1d0157fe53281ab9fa1b8a4a5e944d8.jpg&path=%2Fc1d0157fe53281ab9fa1b8a4a5e944d8.jpg&filename=c1d0157fe53281ab9fa1b8a4a5e944d8.jpg");
+  background-image: url("https://pcs.baidu.com/rest/2.0/pcs/file?method=download&app_id=778750&filename=c1d0157fe53281ab9fa1b8a4a5e944d8.jpg&path=%2Fc1d0157fe53281ab9fa1b8a4a5e944d8.jpg&filename=c1d0157fe53281ab9fa1b8a4a5e944d8.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom 1rem center;
@@ -1630,8 +1630,8 @@ body::before {
 #site-overview-wrap {
   padding-top: 2rem;
 }
-.site-info.fix-top {
-  margin-top: -1.5rem;
+.site-info.mickey-mouse {
+  margin-top: -2.8rem;
 }
 .site-author-avatar {
   display: inline-block;
